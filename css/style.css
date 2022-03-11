@@ -1,0 +1,39 @@
+body {
+  background-color: #FEF1E6;
+}
+
+h1 {
+  color: #316B83;
+}
+
+h3 {
+  color: #316B83;
+}
+
+h2 {
+  color: #316B83;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #316B83;
+  border-width: 7px;
+  width: 5%;
+}
+
+ol {
+  color: #316B83;
+}
+
+p {
+  color: #316B83;
+}
+
+table {
+  color: #316B83;
+}
+
+img {
+  height: 250px;
+}
